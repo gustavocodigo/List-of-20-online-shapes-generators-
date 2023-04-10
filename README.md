@@ -4,8 +4,6 @@ List of 20 online shapes generator
 
 
 
-
-
 1. [Shape Divider](https://www.shapedivider.app/) - Uma ferramenta online gratuita que permite criar formas personalizadas para separar seções em seu site.
 
 2. [CSS Wave Generator](https://css-wave-generator.netlify.app/) - Uma ferramenta online gratuita que permite criar padrões de onda usando CSS.
@@ -42,6 +40,6 @@ List of 20 online shapes generator
 
 18. [Bannersnack](https://www.bannersnack.com/) - Uma plataforma de criação de banners e anúncios online, com recursos de edição de formas, animações e efeitos.
 
-19. [Adobe Spark](https://spark.adobe.com/)
+19. [Adobe Spark](https://spark.adobe.com/) - Uma plataforma de criação de conteúdo visual que permite criar gráficos, vídeos e páginas da web com ferramentas fáceis de usar e recursos de personalização, incluindo formas e padrões.
 
-20. [PicMonkey](https://www.picmonkey.com/)
+20. [PicMonkey](https://www.picmonkey.com/) - Um editor de imagens e gráficos online, com recursos de edição de formas, camadas, filtros e efeitos.
